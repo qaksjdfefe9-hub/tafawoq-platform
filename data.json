@@ -13,536 +13,6 @@
               "title": "المحاضرة 1",
               "url": "https://youtu.be/wEQ-hcXnHxo?si=yITk8bANia9gwkHd",
               "description": "وصف المحاضرة 1 في الوحدة الأولى."
-            },
-            {
-              "title": "المحاضرة 2",
-              "url": "https://youtu.be/QJQSDjCucu8?si=qUu2ic6-PDjIqcP5",
-              "description": "محاضرة 2 من الوحدة الأولى - من YouTube"
-            },
-            {
-              "title": "المحاضرة 3",
-              "url": "https://example.com/lecture_unit1_lec3.mp4",
-              "description": "وصف المحاضرة 3 في الوحدة الأولى."
-            },
-            {
-              "title": "المحاضرة 4",
-              "url": "https://example.com/lecture_unit1_lec4.mp4",
-              "description": "وصف المحاضرة 4 في الوحدة الأولى."
-            },
-            {
-              "title": "المحاضرة 5",
-              "url": "https://example.com/lecture_unit1_lec5.mp4",
-              "description": "وصف المحاضرة 5 في الوحدة الأولى."
-            },
-            {
-              "title": "المحاضرة 6",
-              "url": "https://example.com/lecture_unit1_lec6.mp4",
-              "description": "وصف المحاضرة 6 في الوحدة الأولى."
-            },
-            {
-              "title": "المحاضرة 7",
-              "url": "https://example.com/lecture_unit1_lec7.mp4",
-              "description": "وصف المحاضرة 7 في الوحدة الأولى."
-            },
-            {
-              "title": "المحاضرة 8",
-              "url": "https://example.com/lecture_unit1_lec8.mp4",
-              "description": "وصف المحاضرة 8 في الوحدة الأولى."
-            },
-            {
-              "title": "المحاضرة 9",
-              "url": "https://example.com/lecture_unit1_lec9.mp4",
-              "description": "وصف المحاضرة 9 في الوحدة الأولى."
-            },
-            {
-              "title": "المحاضرة 10",
-              "url": "https://example.com/lecture_unit1_lec10.mp4",
-              "description": "وصف المحاضرة 10 في الوحدة الأولى."
-            },
-            {
-              "title": "المحاضرة 11",
-              "url": "https://example.com/lecture_unit1_lec11.mp4",
-              "description": "وصف المحاضرة 11 في الوحدة الأولى."
-            }
-          ]
-        },
-        {
-          "name": "الوحدة الثانية",
-          "lectures": [
-            {
-              "title": "المحاضرة 1",
-              "url": "https://example.com/lecture_unit2_lec1.mp4",
-              "description": "وصف المحاضرة 1 في الوحدة الثانية."
-            },
-            {
-              "title": "المحاضرة 2",
-              "url": "https://example.com/lecture_unit2_lec2.mp4",
-              "description": "وصف المحاضرة 2 في الوحدة الثانية."
-            },
-            {
-              "title": "المحاضرة 3",
-              "url": "https://example.com/lecture_unit2_lec3.mp4",
-              "description": "وصف المحاضرة 3 في الوحدة الثانية."
-            },
-            {
-              "title": "المحاضرة 4",
-              "url": "https://example.com/lecture_unit2_lec4.mp4",
-              "description": "وصف المحاضرة 4 في الوحدة الثانية."
-            },
-            {
-              "title": "المحاضرة 5",
-              "url": "https://example.com/lecture_unit2_lec5.mp4",
-              "description": "وصف المحاضرة 5 في الوحدة الثانية."
-            },
-            {
-              "title": "المحاضرة 6",
-              "url": "https://example.com/lecture_unit2_lec6.mp4",
-              "description": "وصف المحاضرة 6 في الوحدة الثانية."
-            },
-            {
-              "title": "المحاضرة 7",
-              "url": "https://example.com/lecture_unit2_lec7.mp4",
-              "description": "وصف المحاضرة 7 في الوحدة الثانية."
-            },
-            {
-              "title": "المحاضرة 8",
-              "url": "https://example.com/lecture_unit2_lec8.mp4",
-              "description": "وصف المحاضرة 8 في الوحدة الثانية."
-            },
-            {
-              "title": "المحاضرة 9",
-              "url": "https://example.com/lecture_unit2_lec9.mp4",
-              "description": "وصف المحاضرة 9 في الوحدة الثانية."
-            },
-            {
-              "title": "المحاضرة 10",
-              "url": "https://example.com/lecture_unit2_lec10.mp4",
-              "description": "وصف المحاضرة 10 في الوحدة الثانية."
-            },
-            {
-              "title": "المحاضرة 11",
-              "url": "https://example.com/lecture_unit2_lec11.mp4",
-              "description": "وصف المحاضرة 11 في الوحدة الثانية."
-            }
-          ]
-        },
-        {
-          "name": "الوحدة الثالثة",
-          "lectures": [
-            {
-              "title": "المحاضرة 1",
-              "url": "https://example.com/lecture_unit3_lec1.mp4",
-              "description": "وصف المحاضرة 1 في الوحدة الثالثة."
-            },
-            {
-              "title": "المحاضرة 2",
-              "url": "https://example.com/lecture_unit3_lec2.mp4",
-              "description": "وصف المحاضرة 2 في الوحدة الثالثة."
-            },
-            {
-              "title": "المحاضرة 3",
-              "url": "https://example.com/lecture_unit3_lec3.mp4",
-              "description": "وصف المحاضرة 3 في الوحدة الثالثة."
-            },
-            {
-              "title": "المحاضرة 4",
-              "url": "https://example.com/lecture_unit3_lec4.mp4",
-              "description": "وصف المحاضرة 4 في الوحدة الثالثة."
-            },
-            {
-              "title": "المحاضرة 5",
-              "url": "https://example.com/lecture_unit3_lec5.mp4",
-              "description": "وصف المحاضرة 5 في الوحدة الثالثة."
-            },
-            {
-              "title": "المحاضرة 6",
-              "url": "https://example.com/lecture_unit3_lec6.mp4",
-              "description": "وصف المحاضرة 6 في الوحدة الثالثة."
-            },
-            {
-              "title": "المحاضرة 7",
-              "url": "https://example.com/lecture_unit3_lec7.mp4",
-              "description": "وصف المحاضرة 7 في الوحدة الثالثة."
-            },
-            {
-              "title": "المحاضرة 8",
-              "url": "https://example.com/lecture_unit3_lec8.mp4",
-              "description": "وصف المحاضرة 8 في الوحدة الثالثة."
-            },
-            {
-              "title": "المحاضرة 9",
-              "url": "https://example.com/lecture_unit3_lec9.mp4",
-              "description": "وصف المحاضرة 9 في الوحدة الثالثة."
-            },
-            {
-              "title": "المحاضرة 10",
-              "url": "https://example.com/lecture_unit3_lec10.mp4",
-              "description": "وصف المحاضرة 10 في الوحدة الثالثة."
-            },
-            {
-              "title": "المحاضرة 11",
-              "url": "https://example.com/lecture_unit3_lec11.mp4",
-              "description": "وصف المحاضرة 11 في الوحدة الثالثة."
-            }
-          ]
-        },
-        {
-          "name": "الوحدة الرابعة",
-          "lectures": [
-            {
-              "title": "المحاضرة 1",
-              "url": "https://example.com/lecture_unit4_lec1.mp4",
-              "description": "وصف المحاضرة 1 في الوحدة الرابعة."
-            },
-            {
-              "title": "المحاضرة 2",
-              "url": "https://example.com/lecture_unit4_lec2.mp4",
-              "description": "وصف المحاضرة 2 في الوحدة الرابعة."
-            },
-            {
-              "title": "المحاضرة 3",
-              "url": "https://example.com/lecture_unit4_lec3.mp4",
-              "description": "وصف المحاضرة 3 في الوحدة الرابعة."
-            },
-            {
-              "title": "المحاضرة 4",
-              "url": "https://example.com/lecture_unit4_lec4.mp4",
-              "description": "وصف المحاضرة 4 في الوحدة الرابعة."
-            },
-            {
-              "title": "المحاضرة 5",
-              "url": "https://example.com/lecture_unit4_lec5.mp4",
-              "description": "وصف المحاضرة 5 في الوحدة الرابعة."
-            },
-            {
-              "title": "المحاضرة 6",
-              "url": "https://example.com/lecture_unit4_lec6.mp4",
-              "description": "وصف المحاضرة 6 في الوحدة الرابعة."
-            },
-            {
-              "title": "المحاضرة 7",
-              "url": "https://example.com/lecture_unit4_lec7.mp4",
-              "description": "وصف المحاضرة 7 في الوحدة الرابعة."
-            },
-            {
-              "title": "المحاضرة 8",
-              "url": "https://example.com/lecture_unit4_lec8.mp4",
-              "description": "وصف المحاضرة 8 في الوحدة الرابعة."
-            },
-            {
-              "title": "المحاضرة 9",
-              "url": "https://example.com/lecture_unit4_lec9.mp4",
-              "description": "وصف المحاضرة 9 في الوحدة الرابعة."
-            },
-            {
-              "title": "المحاضرة 10",
-              "url": "https://example.com/lecture_unit4_lec10.mp4",
-              "description": "وصف المحاضرة 10 في الوحدة الرابعة."
-            },
-            {
-              "title": "المحاضرة 11",
-              "url": "https://example.com/lecture_unit4_lec11.mp4",
-              "description": "وصف المحاضرة 11 في الوحدة الرابعة."
-            }
-          ]
-        },
-        {
-          "name": "الوحدة الخامسة",
-          "lectures": [
-            {
-              "title": "المحاضرة 1",
-              "url": "https://example.com/lecture_unit5_lec1.mp4",
-              "description": "وصف المحاضرة 1 في الوحدة الخامسة."
-            },
-            {
-              "title": "المحاضرة 2",
-              "url": "https://example.com/lecture_unit5_lec2.mp4",
-              "description": "وصف المحاضرة 2 في الوحدة الخامسة."
-            },
-            {
-              "title": "المحاضرة 3",
-              "url": "https://example.com/lecture_unit5_lec3.mp4",
-              "description": "وصف المحاضرة 3 في الوحدة الخامسة."
-            },
-            {
-              "title": "المحاضرة 4",
-              "url": "https://example.com/lecture_unit5_lec4.mp4",
-              "description": "وصف المحاضرة 4 في الوحدة الخامسة."
-            },
-            {
-              "title": "المحاضرة 5",
-              "url": "https://example.com/lecture_unit5_lec5.mp4",
-              "description": "وصف المحاضرة 5 في الوحدة الخامسة."
-            },
-            {
-              "title": "المحاضرة 6",
-              "url": "https://example.com/lecture_unit5_lec6.mp4",
-              "description": "وصف المحاضرة 6 في الوحدة الخامسة."
-            },
-            {
-              "title": "المحاضرة 7",
-              "url": "https://example.com/lecture_unit5_lec7.mp4",
-              "description": "وصف المحاضرة 7 في الوحدة الخامسة."
-            },
-            {
-              "title": "المحاضرة 8",
-              "url": "https://example.com/lecture_unit5_lec8.mp4",
-              "description": "وصف المحاضرة 8 في الوحدة الخامسة."
-            },
-            {
-              "title": "المحاضرة 9",
-              "url": "https://example.com/lecture_unit5_lec9.mp4",
-              "description": "وصف المحاضرة 9 في الوحدة الخامسة."
-            },
-            {
-              "title": "المحاضرة 10",
-              "url": "https://example.com/lecture_unit5_lec10.mp4",
-              "description": "وصف المحاضرة 10 في الوحدة الخامسة."
-            },
-            {
-              "title": "المحاضرة 11",
-              "url": "https://example.com/lecture_unit5_lec11.mp4",
-              "description": "وصف المحاضرة 11 في الوحدة الخامسة."
-            }
-          ]
-        },
-        {
-          "name": "الوحدة السادسة",
-          "lectures": [
-            {
-              "title": "المحاضرة 1",
-              "url": "https://example.com/lecture_unit6_lec1.mp4",
-              "description": "وصف المحاضرة 1 في الوحدة السادسة."
-            },
-            {
-              "title": "المحاضرة 2",
-              "url": "https://example.com/lecture_unit6_lec2.mp4",
-              "description": "وصف المحاضرة 2 في الوحدة السادسة."
-            },
-            {
-              "title": "المحاضرة 3",
-              "url": "https://example.com/lecture_unit6_lec3.mp4",
-              "description": "وصف المحاضرة 3 في الوحدة السادسة."
-            },
-            {
-              "title": "المحاضرة 4",
-              "url": "https://example.com/lecture_unit6_lec4.mp4",
-              "description": "وصف المحاضرة 4 في الوحدة السادسة."
-            },
-            {
-              "title": "المحاضرة 5",
-              "url": "https://example.com/lecture_unit6_lec5.mp4",
-              "description": "وصف المحاضرة 5 في الوحدة السادسة."
-            },
-            {
-              "title": "المحاضرة 6",
-              "url": "https://example.com/lecture_unit6_lec6.mp4",
-              "description": "وصف المحاضرة 6 في الوحدة السادسة."
-            },
-            {
-              "title": "المحاضرة 7",
-              "url": "https://example.com/lecture_unit6_lec7.mp4",
-              "description": "وصف المحاضرة 7 في الوحدة السادسة."
-            },
-            {
-              "title": "المحاضرة 8",
-              "url": "https://example.com/lecture_unit6_lec8.mp4",
-              "description": "وصف المحاضرة 8 في الوحدة السادسة."
-            },
-            {
-              "title": "المحاضرة 9",
-              "url": "https://example.com/lecture_unit6_lec9.mp4",
-              "description": "وصف المحاضرة 9 في الوحدة السادسة."
-            },
-            {
-              "title": "المحاضرة 10",
-              "url": "https://example.com/lecture_unit6_lec10.mp4",
-              "description": "وصف المحاضرة 10 في الوحدة السادسة."
-            },
-            {
-              "title": "المحاضرة 11",
-              "url": "https://example.com/lecture_unit6_lec11.mp4",
-              "description": "وصف المحاضرة 11 في الوحدة السادسة."
-            }
-          ]
-        },
-        {
-          "name": "الوحدة السابعة",
-          "lectures": [
-            {
-              "title": "المحاضرة 1",
-              "url": "https://example.com/lecture_unit7_lec1.mp4",
-              "description": "وصف المحاضرة 1 في الوحدة السابعة."
-            },
-            {
-              "title": "المحاضرة 2",
-              "url": "https://example.com/lecture_unit7_lec2.mp4",
-              "description": "وصف المحاضرة 2 في الوحدة السابعة."
-            },
-            {
-              "title": "المحاضرة 3",
-              "url": "https://example.com/lecture_unit7_lec3.mp4",
-              "description": "وصف المحاضرة 3 في الوحدة السابعة."
-            },
-            {
-              "title": "المحاضرة 4",
-              "url": "https://example.com/lecture_unit7_lec4.mp4",
-              "description": "وصف المحاضرة 4 في الوحدة السابعة."
-            },
-            {
-              "title": "المحاضرة 5",
-              "url": "https://example.com/lecture_unit7_lec5.mp4",
-              "description": "وصف المحاضرة 5 في الوحدة السابعة."
-            },
-            {
-              "title": "المحاضرة 6",
-              "url": "https://example.com/lecture_unit7_lec6.mp4",
-              "description": "وصف المحاضرة 6 في الوحدة السابعة."
-            },
-            {
-              "title": "المحاضرة 7",
-              "url": "https://example.com/lecture_unit7_lec7.mp4",
-              "description": "وصف المحاضرة 7 في الوحدة السابعة."
-            },
-            {
-              "title": "المحاضرة 8",
-              "url": "https://example.com/lecture_unit7_lec8.mp4",
-              "description": "وصف المحاضرة 8 في الوحدة السابعة."
-            },
-            {
-              "title": "المحاضرة 9",
-              "url": "https://example.com/lecture_unit7_lec9.mp4",
-              "description": "وصف المحاضرة 9 في الوحدة السابعة."
-            },
-            {
-              "title": "المحاضرة 10",
-              "url": "https://example.com/lecture_unit7_lec10.mp4",
-              "description": "وصف المحاضرة 10 في الوحدة السابعة."
-            },
-            {
-              "title": "المحاضرة 11",
-              "url": "https://example.com/lecture_unit7_lec11.mp4",
-              "description": "وصف المحاضرة 11 في الوحدة السابعة."
-            }
-          ]
-        },
-        {
-          "name": "الوحدة الثامنة",
-          "lectures": [
-            {
-              "title": "المحاضرة 1",
-              "url": "https://example.com/lecture_unit8_lec1.mp4",
-              "description": "وصف المحاضرة 1 في الوحدة الثامنة."
-            },
-            {
-              "title": "المحاضرة 2",
-              "url": "https://example.com/lecture_unit8_lec2.mp4",
-              "description": "وصف المحاضرة 2 في الوحدة الثامنة."
-            },
-            {
-              "title": "المحاضرة 3",
-              "url": "https://example.com/lecture_unit8_lec3.mp4",
-              "description": "وصف المحاضرة 3 في الوحدة الثامنة."
-            },
-            {
-              "title": "المحاضرة 4",
-              "url": "https://example.com/lecture_unit8_lec4.mp4",
-              "description": "وصف المحاضرة 4 في الوحدة الثامنة."
-            },
-            {
-              "title": "المحاضرة 5",
-              "url": "https://example.com/lecture_unit8_lec5.mp4",
-              "description": "وصف المحاضرة 5 في الوحدة الثامنة."
-            },
-            {
-              "title": "المحاضرة 6",
-              "url": "https://example.com/lecture_unit8_lec6.mp4",
-              "description": "وصف المحاضرة 6 في الوحدة الثامنة."
-            },
-            {
-              "title": "المحاضرة 7",
-              "url": "https://example.com/lecture_unit8_lec7.mp4",
-              "description": "وصف المحاضرة 7 في الوحدة الثامنة."
-            },
-            {
-              "title": "المحاضرة 8",
-              "url": "https://example.com/lecture_unit8_lec8.mp4",
-              "description": "وصف المحاضرة 8 في الوحدة الثامنة."
-            },
-            {
-              "title": "المحاضرة 9",
-              "url": "https://example.com/lecture_unit8_lec9.mp4",
-              "description": "وصف المحاضرة 9 في الوحدة الثامنة."
-            },
-            {
-              "title": "المحاضرة 10",
-              "url": "https://example.com/lecture_unit8_lec10.mp4",
-              "description": "وصف المحاضرة 10 في الوحدة الثامنة."
-            },
-            {
-              "title": "المحاضرة 11",
-              "url": "https://example.com/lecture_unit8_lec11.mp4",
-              "description": "وصف المحاضرة 11 في الوحدة الثامنة."
-            }
-          ]
-        },
-        {
-          "name": "الوحدة التاسعة",
-          "lectures": [
-            {
-              "title": "المحاضرة 1",
-              "url": "https://example.com/lecture_unit9_lec1.mp4",
-              "description": "وصف المحاضرة 1 في الوحدة التاسعة."
-            },
-            {
-              "title": "المحاضرة 2",
-              "url": "https://example.com/lecture_unit9_lec2.mp4",
-              "description": "وصف المحاضرة 2 في الوحدة التاسعة."
-            },
-            {
-              "title": "المحاضرة 3",
-              "url": "https://example.com/lecture_unit9_lec3.mp4",
-              "description": "وصف المحاضرة 3 في الوحدة التاسعة."
-            },
-            {
-              "title": "المحاضرة 4",
-              "url": "https://example.com/lecture_unit9_lec4.mp4",
-              "description": "وصف المحاضرة 4 في الوحدة التاسعة."
-            },
-            {
-              "title": "المحاضرة 5",
-              "url": "https://example.com/lecture_unit9_lec5.mp4",
-              "description": "وصف المحاضرة 5 في الوحدة التاسعة."
-            },
-            {
-              "title": "المحاضرة 6",
-              "url": "https://example.com/lecture_unit9_lec6.mp4",
-              "description": "وصف المحاضرة 6 في الوحدة التاسعة."
-            },
-            {
-              "title": "المحاضرة 7",
-              "url": "https://example.com/lecture_unit9_lec7.mp4",
-              "description": "وصف المحاضرة 7 في الوحدة التاسعة."
-            },
-            {
-              "title": "المحاضرة 8",
-              "url": "https://example.com/lecture_unit9_lec8.mp4",
-              "description": "وصف المحاضرة 8 في الوحدة التاسعة."
-            },
-            {
-              "title": "المحاضرة 9",
-              "url": "https://example.com/lecture_unit9_lec9.mp4",
-              "description": "وصف المحاضرة 9 في الوحدة التاسعة."
-            },
-            {
-              "title": "المحاضرة 10",
-              "url": "https://example.com/lecture_unit9_lec10.mp4",
-              "description": "وصف المحاضرة 10 في الوحدة التاسعة."
-            },
-            {
-              "title": "المحاضرة 11",
-              "url": "https://example.com/lecture_unit9_lec11.mp4",
-              "description": "وصف المحاضرة 11 في الوحدة التاسعة."
             }
           ]
         }
@@ -550,5 +20,13 @@
     }
   ],
   "materials": [],
-  "exams": []
+  "exams": [],
+  "announcements": [
+    {
+      "id": 1,
+      "title": "إعلان جديد 📢",
+      "message": "تم رفع المحاضرة الأولى من الوحدة الأولى، يرجى الاطلاع.",
+      "date": "2025-10-24"
+    }
+  ]
 }
